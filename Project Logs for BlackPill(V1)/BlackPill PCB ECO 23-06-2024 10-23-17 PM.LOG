@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=MCU_PB5 Pin=J2B-2
+Removed Pin From Net: NetName=MCU_PB3 Pin=J2B-3
+Removed Pin From Net: NetName=MCU_PA14 Pin=J2B-4
+Removed Pin From Net: NetName=MCU_PA13 Pin=J2B-17
+Removed Pin From Net: NetName=MCU_PA15 Pin=J2B-18
+Removed Pin From Net: NetName=MCU_PB4 Pin=J2B-19
+Added Pin To Net: NetName=MCU_PB4 Pin=J2B-2
+Added Pin To Net: NetName=MCU_PA15 Pin=J2B-3
+Added Pin To Net: NetName=MCU_PA13 Pin=J2B-4
+Added Pin To Net: NetName=MCU_PA14 Pin=J2B-17
+Added Pin To Net: NetName=MCU_PB3 Pin=J2B-18
+Added Pin To Net: NetName=MCU_PB5 Pin=J2B-19

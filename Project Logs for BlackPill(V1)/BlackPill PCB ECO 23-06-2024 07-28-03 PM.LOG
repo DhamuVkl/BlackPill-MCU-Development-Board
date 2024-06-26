@@ -1,0 +1,76 @@
+Removed Pin From Net: NetName=GND Pin=C3C-1
+Removed Pin From Net: NetName=+5V Pin=C3C-2
+Removed Pin From Net: NetName=GND Pin=C5C-1
+Removed Pin From Net: NetName=+3V3 Pin=C5C-2
+Change Component Footprint: Designator=C3C Old Footprint=CAP 0402_1005 New Footprint=CAP POL 1411_3528
+Change Component Footprint: Designator=C5C Old Footprint=CAP 0402_1005 New Footprint=CAP POL 1411_3528
+Change Component Comment : Designator=C3C Old Comment=22 µF New Comment=22µF
+Change Component Comment : Designator=C5C Old Comment=22 µF New Comment=22µF
+Change component parameters: Designator = "C3C" ("C3C"); Footprint = "CAP 0402_1005"; UniqueID = "\ENHTWUNN\CBLVRWRR" ("\ENHTWUNN\CBLVRWRR")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "22µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://api.kemet.com/component-edge/download/datasheet/T540B226K010CH86107610.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/kemet/T540B226K010CH86107610/T540B226K010CH86107610-ND/6676110"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Esr (Equivalent Series Resistance)"; Value = "80mOhm @ 100kHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "High Reliability"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "0.083" (2.10mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "id"; Value = "2514"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LastUpdated"; Value = "2020-08-30T20:56:14.177"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifetime @ Temp."; Value = "2000 Hrs @ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Size Code"; Value = "B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "3600"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "1411 (3528 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "T540B226K010CH86107610"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartId"; Value = "2514"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "9.10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ratings"; Value = "COTS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "KO-CAP® T540"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.138" L x 0.110" W (3.50mm x 2.80mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "T540B226K010CH86107610-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Molded"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Rated"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5C" ("C5C"); Footprint = "CAP 0402_1005"; UniqueID = "\ENHTWUNN\NOYFEOEN" ("\ENHTWUNN\NOYFEOEN")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "22µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://api.kemet.com/component-edge/download/datasheet/T540B226K010CH86107610.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/kemet/T540B226K010CH86107610/T540B226K010CH86107610-ND/6676110"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Esr (Equivalent Series Resistance)"; Value = "80mOhm @ 100kHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Features"; Value = "High Reliability"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "0.083" (2.10mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "id"; Value = "2514"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LastUpdated"; Value = "2020-08-30T20:56:14.177"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifetime @ Temp."; Value = "2000 Hrs @ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Size Code"; Value = "B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "3600"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package / Case"; Value = "1411 (3528 Metric)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "T540B226K010CH86107610"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartId"; Value = "2514"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "9.10"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ratings"; Value = "COTS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "KO-CAP® T540"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Size / Dimension"; Value = "0.138" L x 0.110" W (3.50mm x 2.80mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "T540B226K010CH86107610-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Molded"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage - Rated"; Value = "10V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=C3C-1
+Added Pin To Net: NetName=GND Pin=C3C-2
+Added Pin To Net: NetName=+3V3 Pin=C5C-1
+Added Pin To Net: NetName=GND Pin=C5C-2

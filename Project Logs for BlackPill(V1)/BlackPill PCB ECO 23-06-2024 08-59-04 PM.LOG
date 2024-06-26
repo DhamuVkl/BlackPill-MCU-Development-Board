@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=U1B Old Footprint=IS-QFN-24_V New Footprint=QFN50P400X400X95-24N
+Change Managed Component Library Link : Designator=U1B Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=EBFE9E2D-214C-4D56-9829-981A7652E0F8 New ItemGUID= Old RevisionGUID=6616B753-D6CB-400F-87C9-B825EB7CAE7A New RevisionGUID=
+Change component parameters: Designator = "U1B" ("U1B"); Footprint = "IS-QFN-24_V"; UniqueID = "\XPKTROKA\LJHEKBWM" ("\XPKTROKA\LJHEKBWM")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MPU-6050/TDK+InvenSense/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TDK InvenSense"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "MPU-6050"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "QFN-24 InvenSense"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MPU-6050/TDK+InvenSense/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1428-1007-1-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

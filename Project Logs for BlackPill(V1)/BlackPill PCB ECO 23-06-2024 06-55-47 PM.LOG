@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=TVS_D_N Pin=D2C-1
+Removed Pin From Net: NetName=TVS_D_P Pin=D2C-3
+Removed Pin From Net: NetName=USB_D_P Pin=D2C-4
+Removed Pin From Net: NetName=USB_D_N Pin=D2C-6
+Added Pin To Net: NetName=USB_D_N Pin=D2C-1
+Added Pin To Net: NetName=USB_D_P Pin=D2C-3
+Added Pin To Net: NetName=TVS_D_P Pin=D2C-4
+Added Pin To Net: NetName=TVS_D_N Pin=D2C-6
+Change Net Name : Old Net Name=NetJ1C_A5 New Net Name=CC1
+Change Net Name : Old Net Name=NetJ1C_B5 New Net Name=CC2

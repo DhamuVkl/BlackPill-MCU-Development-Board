@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=IC BASE.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=IC BASE.SchDoc|Designator=U_IMU & Connectors|SchDesignator=U_IMU & Connectors|FileName=IMU & Connectors.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=IMU & Connectors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=IC BASE.SchDoc|Designator=U_Power|SchDesignator=U_Power|FileName=Power.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

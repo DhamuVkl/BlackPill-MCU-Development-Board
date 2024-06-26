@@ -1,0 +1,22 @@
+Added Component: Designator=U1B(QFN50P400X400X95-24N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MPU-6050/TDK+InvenSense/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK InvenSense"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MPU-6050"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "QFN-24 InvenSense"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MPU-6050/TDK+InvenSense/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1428-1007-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U1B-1
+Added Pin To Net: NetName=+3V3 Pin=U1B-8
+Added Pin To Net: NetName=GND Pin=U1B-9
+Added Pin To Net: NetName=IMU_REGOUT Pin=U1B-10
+Added Pin To Net: NetName=GND Pin=U1B-11
+Added Pin To Net: NetName=IMU_INT Pin=U1B-12
+Added Pin To Net: NetName=+3V3 Pin=U1B-13
+Added Pin To Net: NetName=GND Pin=U1B-18
+Added Pin To Net: NetName=CPOUT Pin=U1B-20
+Added Pin To Net: NetName=IMU_SCL Pin=U1B-23
+Added Pin To Net: NetName=IMU_SDA Pin=U1B-24
+Added Pin To Net: NetName=GND Pin=U1B-25
+Added Member To Class: ClassName=U_IMU & Connectors Member=Component U1B MPU-6050
